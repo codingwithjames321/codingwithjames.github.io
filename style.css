@@ -28,7 +28,7 @@ html{
     display:inline-block;
     justify-content: space-between;
     align-items: center;
-    padding: 9rem;
+    padding: 29rem;
 
 
     
@@ -42,9 +42,10 @@ html{
    /** padding: 4rem 2rem; **/
     box-shadow: 0 .2rem .5rem rgb(236,35,119);
     text-align: center;
-    background: rgb(11, 141, 211);
+  /**  background: rgb(11, 141, 211); **/
     border-radius: 1rem;
     margin-top: -15em;
+    background-color: rgb(236, 135, 135)
 
 }
 
@@ -68,6 +69,16 @@ html{
     letter-spacing: .1rem;      
 
 }
+
+.about-content p{
+    font-size: 3rem;
+    font-weight: 300;
+    line-height: 3.5rem;
+
+}
+
+
+
 
 /**
 .btn
