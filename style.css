@@ -14,7 +14,7 @@
     text-transform: capitalize;
     outline: none;
     transition: .7% linear;
-     overflow:visible; **/
+     overflow:inherit; **/
 }
 html{
     font-size: 15px ;
@@ -106,6 +106,7 @@ html{
     border-radius:1rem;
     box-shadow: 0 .3rem .6rem rgb(236, 135, 135);
     text-align: center;
+    display: inline-block;
 }
 
 .cake-product .inner-cake-col .cake-price{
@@ -142,7 +143,28 @@ html{
 .cake-product .inner-cake-col p{
     color: gray;
     font-size: 1.4rem;
+    font-weight: 500;
+    padding:.5rem 0;
 }
+
+@media(max-width:758px){
+    .title{
+        text-align: center;
+        font-size: 2rem;
+
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -256,7 +278,7 @@ header .navs ul li a:active
 
 }
 body{
- /**  background: linear-gradient(rgba(237, 135, 135, 0.5),rgba(0,0,0,0.5)),url('pics/IMG_9498.jpg');  **/
+  background: linear-gradient(rgba(237, 135, 135, 0.5),rgba(0,0,0,0.5)),url('pics/IMG_9498.jpg');  **/
     
 
 
