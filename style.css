@@ -189,7 +189,7 @@ header .navs ul li a:active
 
 }
 body{
-    background: linear-gradient(rgba(237, 135, 135, 0.5),rgba(0,0,0,0.5)),url('pics/IMG_9498.jpg');
+   background: linear-gradient(rgba(237, 135, 135, 0.5),rgba(0,0,0,0.5)),url('pics/IMG_9498.jpg');  **/
     ;
 
 
@@ -206,7 +206,7 @@ body{
 
 .home p{
     font-size: 1.5rem;
-    line-height: rem;
+    line-height:2rem;
     color: bisque;
     font-weight: 500;
     font-size: larger;
