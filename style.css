@@ -14,7 +14,7 @@
     text-transform: capitalize;
     outline: none;
     transition: .7% linear;
-     overflow:inherit; **/
+     **/
 }
 html{
     font-size: 15px ;
@@ -80,7 +80,16 @@ html{
 
 
 
+
+
 /**Product **/
+
+
+section.cake-product{
+    display: inline-block;
+    size: 95rem;;
+    background-color: white;
+}
 
 
 
@@ -122,6 +131,7 @@ html{
     border-radius:5rem;
     background:lightgray;
     color: black;
+    
 }
 
 .cake-star{
@@ -137,6 +147,7 @@ html{
     font-size:1.6rem;
     font-size:1.6rem;
     letter-spacing: .1rem;
+    
 }
 
 
@@ -145,6 +156,7 @@ html{
     font-size: 1.4rem;
     font-weight: 500;
     padding:.5rem 0;
+    
 }
 
 @media(max-width:758px){
