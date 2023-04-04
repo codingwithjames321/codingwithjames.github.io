@@ -14,7 +14,7 @@
     text-transform: capitalize;
     outline: none;
     transition: .7% linear;
- /**   overflow:hidden; **/
+     overflow:visible; **/
 }
 html{
     font-size: 15px ;
@@ -51,7 +51,7 @@ html{
 
 
 .about .image img{
-    width: 39rem;
+    width: 20rem;
     height: auto;
     
 }
@@ -189,8 +189,8 @@ header .navs ul li a:active
 
 }
 body{
-   background: linear-gradient(rgba(237, 135, 135, 0.5),rgba(0,0,0,0.5)),url('pics/IMG_9498.jpg');  **/
-    ;
+ /**  background: linear-gradient(rgba(237, 135, 135, 0.5),rgba(0,0,0,0.5)),url('pics/IMG_9498.jpg');  **/
+    
 
 
 
