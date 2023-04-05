@@ -21,13 +21,14 @@ html{
     height: -webkit-fill-available;
 }
 body{
+    align-items: center;
     display: flex;
     flex-direction: column;
     max-width: 1440px;
     height: 100vh;
     height: -webkit-fill-available;
     align-items: center;
-    padding: 5.2rem;
+    padding: 3.2rem;
 }
 
 
