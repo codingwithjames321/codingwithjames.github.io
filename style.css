@@ -20,6 +20,13 @@ html{
     font-size: 15px ;
     height: -webkit-fill-available;
 }
+body{
+    display: flex;
+    flex-direction: column;
+    max-width: 1440px;
+    height: 100vh;
+    height: -webkit-fill-available;
+}
 
 
 
