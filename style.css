@@ -26,6 +26,8 @@ body{
     max-width: 1440px;
     height: 100vh;
     height: -webkit-fill-available;
+    align-items: center;
+    padding: 5.2rem;
 }
 
 
@@ -94,7 +96,6 @@ body{
 
 
 section.cake-product{
-    display: inline-block;
     size: 95rem;;
     background-color: white;
 }
@@ -124,6 +125,7 @@ section.cake-product{
     box-shadow: 0 .3rem .6rem rgb(236, 135, 135);
     text-align: center;
     display: inline-block;
+    
 }
 
 .cake-product .inner-cake-col .cake-price{
@@ -154,7 +156,7 @@ section.cake-product{
     color: darkblue;
     font-size:1.6rem;
     font-size:1.6rem;
-    letter-spacing: .1rem;
+    letter-spacing: .1rem; 
     
 }
 
@@ -216,14 +218,6 @@ section.cake-product{
 
 
 
-
-
-section
-{
-    min-height: 100vh;
-    padding: 1rem 10%;
-    padding-top: 6rem;
-}
 
 
 
