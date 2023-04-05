@@ -18,6 +18,7 @@
 }
 html{
     font-size: 15px ;
+    height: -webkit-fill-available;
 }
 
 
@@ -110,7 +111,7 @@ section.cake-product{
     background: #fff;
     height:27rem;
     flex: 1 1 21rem;
-    padding: 1.2rem;
+ /**   padding: 1.2rem;  **/
     margin:1.5;
     border-radius:1rem;
     box-shadow: 0 .3rem .6rem rgb(236, 135, 135);
