@@ -10,7 +10,7 @@
     font-size: x-large;
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
+ /**   box-sizing: border-box;     **/
 /**    text-transform: capitalize;  **/
     text-transform: math-auto;
     outline: none;
