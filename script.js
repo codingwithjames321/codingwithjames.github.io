@@ -1,3 +1,4 @@
+/*
 $(document).ready(function()
 {
 
@@ -6,3 +7,5 @@ $(document).ready(function()
      $('.navs').toggleClass('nav-toggle');
  })
 });
+
+*/
